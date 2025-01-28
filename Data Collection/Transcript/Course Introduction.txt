@@ -1,0 +1,24 @@
+[MUSIC]
+Welcome. I'm Joseph, your instructor. Congratulations on taking your next
+step toward becoming a data scientist. Python is a top language for data science. Now that you know how
+to program with Python, you're going to use
+Python to analyze data. In this course, you will learn to
+use the most important libraries for analyzing data in Python,
+including NumPy, Pandas, and Klearn. These Python libraries are integral
+to becoming a data scientist and used in industries such as healthcare,
+finance, insurance, all things Internet, and many others. In addition to analyzing data, you'll
+learn how to build data pipelines and build your own machine learning model for
+making predictions on real world data set. In module one, you'll learn how to
+understand the data set characteristics, get an overview of Python packages for
+analyzing data, and learn how to import data and
+start analyzing it. In module two, I will teach you
+data wrangling preprocessing, dealing with missing values, followed by
+data formatting and data normalization. In module three, you'll be introduced to
+exploratory data analysis, descriptive statistics GroupBy, correlation,
+and other important statistics. In module four, you will learn
+linear regression, model evaluation, polynomial regression, and pipelines
+measures for In-sample evaluation, prediction and decision making. In module five, you will discover model
+evaluation and refinement overfitting, underfitting, model selection,
+ridge regression, and grid search. Finally, you will practice your newly
+acquired skills with a Hands-On project using a real world data set. The only prerequisites for this course
+are programming with Python and high school math. Good luck and have fun.
